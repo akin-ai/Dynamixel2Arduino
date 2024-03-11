@@ -20,7 +20,7 @@
 
 #include "utility/master.h"
 #include "utility/slave.h"
-#include "actuator.h"
+#include "Dactuator.h"
 
 // TODO: Match the OP Mode to the actual value
 // https://github.com/ROBOTIS-GIT/Dynamixel2Arduino/issues/73
